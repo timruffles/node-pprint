@@ -7,7 +7,7 @@ pprint.p // shorthand for console.log
 
 pprint.pp // console.log that deep inspects all arguments via util.inspect
 
-// invokes a function on second argument and then returns it,
+// invokes a function (first argument) on second argument and then returns it,
 // useful for debugging pipelines etc, especially with _.partial(tap,snooperFn)
 pprint.tap 
 
