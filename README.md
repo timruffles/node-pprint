@@ -21,6 +21,12 @@ pprint.pptap
 pprint.expose
 ```
 
+## Install
+
+```
+npm install --save-dev pprint
+```
+
 ## Promises
 
 ```
